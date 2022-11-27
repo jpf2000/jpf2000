@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jpf2000
+- 👋 Hi, I’m Jesse.
 - 👀 I’m interested in all things Web3, particularly building on ethereum!
 - 🌱 I’m currently learning all about ethereum and de-fi protocols as its my goal to become a bloackchain dev!
 - 💞️ I’m looking to collaborate on (im not too sure as im relaively new to the space!)
