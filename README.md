@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jesse.
 - 👀 I’m interested in all things Web3, particularly building on ethereum!
 - 🌱 I’m currently learning all about solidity and de-fi protocols!
-- 💞️ I’m looking to collaborate on (im not too sure as im relaively new to the space!)
 - 📫 How to reach me send me a message on here!
 
 <!---
